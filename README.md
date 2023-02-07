@@ -6,6 +6,3 @@
 ![image](https://user-images.githubusercontent.com/109362034/211898628-b677073f-2ade-4901-ba7f-4fb4e416a192.png)
 ![image](https://user-images.githubusercontent.com/109362034/211898799-21eee7ed-4dce-407c-8c26-9b6c33d2a736.png)
 ![image](https://user-images.githubusercontent.com/109362034/211899018-75057d4c-3f0a-4989-ad62-80b6205c85d6.png)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-muns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
