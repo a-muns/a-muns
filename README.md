@@ -8,4 +8,4 @@
 ![image](https://user-images.githubusercontent.com/109362034/211899018-75057d4c-3f0a-4989-ad62-80b6205c85d6.png)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-muns)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-muns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
