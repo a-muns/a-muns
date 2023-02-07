@@ -7,6 +7,6 @@
 ![image](https://user-images.githubusercontent.com/109362034/211898799-21eee7ed-4dce-407c-8c26-9b6c33d2a736.png)
 ![image](https://user-images.githubusercontent.com/109362034/211899018-75057d4c-3f0a-4989-ad62-80b6205c85d6.png)
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,php,andriodstudio&perline=3&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,git,github,mysql,sqlite,replit&perline=3&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,php,html,css,js,&perline=3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,androidstudio,replit,git,github,mysql,sqlite,linux&perline=3)](https://skillicons.dev)
