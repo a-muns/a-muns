@@ -1,7 +1,7 @@
 # My Skillset
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,kotlin,py,php)](https://skillicons.dev)
 
 ## IDE and Version Control
 [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,androidstudio,replit,git,github&perline=4)](https://skillicons.dev)
