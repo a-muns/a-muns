@@ -15,3 +15,8 @@
 (<em>MySQL, MongoDB, SQLite,
 <br>Maven, Postman, Spring,
 <br>Bash, Linux</em>)
+
+## Featured Repositories
+NASA Image of the Day App (Android): https://github.com/a-muns/NASA-Image-of-the-Day-App
+<br>Portfolio: https://github.com/a-muns/Portfolio
+<br>Client Website (Gardening Business): https://github.com/a-muns/IG_ClientWebpage
