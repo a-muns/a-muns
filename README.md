@@ -1,8 +1,8 @@
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,kotlin,php,py&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,kotlin,php,py,react&perline=4)](https://skillicons.dev)
 <br>
 (<em>HTML, CSS, JavaScript, Java, 
-<br>Kotlin, PHP, Python</em>)
+<br>Kotlin, PHP, Python, React</em>)
 
 ## IDE and Version Control
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,idea,replit,vscode,git,github&perline=5)](https://skillicons.dev)
